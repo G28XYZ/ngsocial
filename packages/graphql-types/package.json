@@ -1,0 +1,26 @@
+{
+  "name": "graphql-types",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "Aleksandr Kucherenko <g28xyz@ya.ru>",
+  "homepage": "https://github.com/PacktPublishing/Full-Stack-Development-with-Angular-and-GraphQL/tree/main#readme",
+  "license": "ISC",
+  "main": "lib/graphql-types.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PacktPublishing/Full-Stack-Development-with-Angular-and-GraphQL.git#main"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/PacktPublishing/Full-Stack-Development-with-Angular-and-GraphQL/issues"
+  }
+}

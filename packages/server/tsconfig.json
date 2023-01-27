@@ -1,12 +1,3 @@
 {
-  "compilerOptions": {
-    "rootDir": "./",
-    "outDir": "./dist",
-    "paths": {
-      "@ngsocial/graphql": ["../graphql-types/src"]
-    }
-  },
-  "references": [{ "path": "../graphql-types" }],
-  "extends": "../../tsconfig.json",
-  "exclude": ["./src"]
+	"extends": "../../tsconfig.json"
 }
